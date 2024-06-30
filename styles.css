@@ -485,6 +485,18 @@ img {
   }
 }
 
+@media screen and (max-width:728px){
+
+  .profile{
+    margin-top: -2050px;
+    width: 200px;
+    
+  }
+  
+}
+  
+
+
 
 .profile{
   margin-bottom: 125px;
